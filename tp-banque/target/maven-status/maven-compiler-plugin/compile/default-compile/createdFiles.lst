@@ -1,0 +1,6 @@
+com\isika\cdi5\tp\banque\model\TypeCompteBancaire.class
+com\isika\cdi5\tp\banque\repository\Repository.class
+com\isika\cdi5\tp\banque\model\Client.class
+com\isika\cdi5\tp\banque\model\CompteBancaire.class
+com\isika\cdi5\tp\banque\utils\MainTpBanque.class
+com\isika\cdi5\tp\banque\utils\HibernateUtil.class
